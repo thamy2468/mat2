@@ -1,3 +1,6 @@
 body{
     background-color: aquamarine;
+}header {
+    background-color: hsl(221, 92%, 51%);
+    color: white;
 }
